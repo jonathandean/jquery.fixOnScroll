@@ -26,6 +26,10 @@ You can also set the z-index value manually if scrolling the element down causes
 
     $('some_selector').fixOnScroll({ zIndex: 1 });
 
+Browser support
+---------------
+Firefox, Chrome, Safari, Mobile Safari and ??. I haven't tested on any versions of IE, Opera or an Android browser. Would love to know if they work if anyone is kind enough to test and report back.
+
 Examples
 --------
-Coming soon
+Check out the right sidebar of [this page](http://www.jonathandean.com/2011/07/jquery-plugin-fix-on-scroll/)
